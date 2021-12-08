@@ -154,14 +154,14 @@ var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya k
 var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
-var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
-var __minggu = 'Rp 15.000,00'
-var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 22.000,00'
-var _permanen = 'Rp 100.000,00'
-var __permanen = 'Rp 150.000,00'
+var _minggu = 'Rp 4.000,00' //Masukkan harga sewa sesuai keinginan
+var __minggu = 'Rp 6.000,00'
+var ___minggu = 'Rp 8.000,00'
+var _bulan = 'Rp 10.000,00'
+var _permanen = 'Rp 50.000,00'
+var __permanen = 'Rp 60.000,00'
 
-zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
+zeksApikey = 'Netshhhhh' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
 thumbnail = setting.thumb
 pp_bot = fs.readFileSync(`image/${thumbnail}`)
